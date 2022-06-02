@@ -1,0 +1,113 @@
+/* semua agenda */
+.add-news {
+	background-color: #3C8DBC;
+	color: #fff;
+	font-size: 15px;
+	padding:  10px;
+	margin-bottom: 30px;
+	border-radius: 3px;
+}
+.add-news:hover , .add-news:active {
+	background-color: #26baee;
+	color: #fff;	
+	text-decoration:none;
+	transition: all 0.3s ease-in-out;
+}
+.perintah {
+	background-color: #fff;
+	padding: 15px 12px;
+	margin-top: 15px;
+	border-radius: 4px;
+	box-shadow: 1px 1px 1.4px 1px #ddd; 
+	color: #000;
+}
+.table-head{
+	background-color: #1E282C;
+	color: #fff;
+}
+.btn-edit {
+	background-color: #3C8DBC;
+	color: #fff;
+	padding: 6.4px 20px 8px;
+	border-radius: 2px;
+}
+.btn-edit:hover ,  .btn-edit:focus {
+	background-color: #26baee;	
+	text-decoration:none;
+	color: #fff;
+	transition: all 0.3s ease-in-out;
+}
+.btn-delete {
+	background-color: #db2d43;
+	padding: 5px 12px;
+	border-radius: 2px;
+	color: #fff;
+	border: none;
+	margin-top: 13px;
+}
+.btn-delete:hover , .btn-delete:focus {
+	background-color: #c1224f;
+	outline: none;
+}
+@media (max-width: 600px) {
+	.btn-delete {
+		margin-top: 10px;
+	}
+}
+@media (max-width:900px) {
+	.btn-delete {
+		margin-top: 10px;
+	}
+}
+/* semua-agenda */
+/* tambah-agenda */
+.input-group-addon {
+	background-color: #1E282C;
+	color: #fff;
+	border: 1px solid #1E282C;
+	border-radius: 	0px;
+}
+.input-group-addon:hover , .input-group-addon:focus , .input-group-addon:active {
+	background-color: #26baee;
+	border: 1px solid #26baee;
+	-webkit-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;	
+}
+.tanggal-agenda {
+	font-family: calibri;
+	font-size: 	20px;
+	color: #000;
+}
+.tanggal-dan-lokasi {
+	margin-top: 30px;
+	padding: 0px !important;
+}
+.desc {
+	margin-top: 30px;	
+}
+textarea {
+	resize: none;
+}
+.unggah {
+	margin-top: 17px;
+}
+.btn-unggah {
+	background-color: #3C8DBC;
+	border: none;
+	color: #fff;
+	padding: 7px 20px;
+	border-radius: 2px;
+}
+.btn-unggah:hover , .btn-unggah:focus , .btn-unggah:active {
+	background-color: #26baee;
+	-webkit-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+.form-control , .form-control:focus , .form-control:active {
+	border-radius: 0px !important;
+	box-shadow: none !important;
+	outline: none !important;
+}
+/* tambah-agenda */

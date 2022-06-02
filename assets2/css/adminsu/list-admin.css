@@ -1,0 +1,74 @@
+/* semua informasi */
+.add-news {
+	background-color: #3C8DBC;
+	color: #fff;
+	font-size: 15px;
+	padding:  10px;
+	border-radius: 3px;
+}
+.add-news:hover , .add-news:active {
+	background-color: #26baee;
+	color: #fff;	
+	text-decoration:none;
+	transition: all 0.3s ease-in-out;
+}
+.perintah {
+	background-color: #fff;
+	padding: 15px 12px;
+	margin-top: 8px;
+	border-radius: 4px;
+	box-shadow: 1px 1px 1.4px 1px #ddd; 
+	color: #000;
+}
+.scroll {
+	overflow-y: auto; 
+	height: 340px;
+}
+.button-backup {
+	margin-top: -14.5px;
+}
+.button-close {
+	margin-right: -11.5px;
+	padding: 4px 10px;
+}
+.backup-list {
+	margin-top: -3px !important;
+}
+.data-gambar {
+	padding: 5px;
+}
+.data-login {
+	margin-top: 8px;
+}
+.button-add {
+	background-color: #1E282C;
+	color: #fff;
+	font-size: 15px;
+	padding: 7px 14px;
+	border-radius: 3px;
+	border: none;
+}
+.button-add:hover , .button-add:active {
+	color: #fff;	
+	text-decoration:none;
+}
+.loking[type=file]::-webkit-file-upload-button {
+	padding-left: 10px;
+	border: none;
+	padding: 7px 14px;
+	border-radius: 2px;
+	background: #3C8DBC;
+	color: #fff;  
+}
+.loking[type=file]::-webkit-file-upload-button:focus { 
+	outline: none !important;
+	border: none !important;
+}
+.loking[type=file]::-webkit-file-upload-button:active { 
+	outline: none !important;
+	border: none !important;
+}
+.upload-file {
+	border: none !important;
+	padding: 0;
+}

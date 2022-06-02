@@ -1,0 +1,110 @@
+/* informasi */
+.edit , .edit:active{
+	background-color: #26baee;
+	padding: 6px 14px;
+	color: #fff;
+	border-radius: 2px;
+	letter-spacing: 0.7px;
+}
+.edit:hover ,.edit:focus  {
+	color:#fff; 
+	text-decoration: none;
+	background-color: #005792;
+	-webkit-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out; 
+}
+.delete , .delete:active , .delete:focus {
+	background-color: #db2d43;
+	border:none;
+	color:#fff;
+	letter-spacing: 0.3px; 
+	border-radius: 2px;
+	padding: 4px 12px;
+	outline: none;
+}
+.delete:hover {
+	background-color: #c1224f;
+	-webkit-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out; 
+}
+/* informasi */
+/* semua-agenda */
+.ubah , .ubah:active{
+  margin-top: 5px;
+  background-color: #26baee;
+  border: none;
+  padding: 7px 36px;
+  color: #fff;
+  border-radius: 2px;
+}
+.ubah:hover ,.ubah:focus  {
+  color:#fff; 
+  text-decoration: none;
+  background-color: #005792;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out; 
+}
+.hapus , .hapus:active , .hapus:focus {
+  margin-top: 15px;
+  background-color: #db2d43;
+  border:none;
+  color:#fff; 
+  border-radius: 2px;
+  padding: 6px 28px;
+  outline: none;
+}
+.hapus:hover {
+  background-color: #c1224f;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out; 
+}
+/* semua-agenda */
+/* tambah dan edit agenda */
+.input-group-addon {
+	background-color: #011c38;
+	color: #fff;
+	border: 1px solid #011c38;
+	border-radius: 	0px;
+}
+.input-group-addon:hover , .input-group-addon:focus , .input-group-addon:active {
+	background-color: #26baee;
+	border: 1px solid #26baee;
+	-webkit-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;	
+}
+.form-control:active , .form-control:focus {
+	border: 1px solid #ddd;
+	box-shadow: none;
+}
+.tanggal-agenda {
+	font-family: calibri;
+	font-size: 	20px;
+	color: #000;
+}
+textarea {
+	resize: none;
+}
+.unggah {
+	margin-top: 17px;
+}
+.btn-unggah {
+	background-color: #011c38;
+	border: none;
+	color: #fff;
+	padding: 7px 20px;
+	border-radius: 2px;
+}
+.btn-unggah:hover , .btn-unggah:focus , .btn-unggah:active {
+	background-color: #26baee;
+	-webkit-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+/* tambah dan edit agenda */
+
+/*  */

@@ -1,0 +1,94 @@
+
+[14-Apr-2020 18:58:36 UTC] PHP Notice:  Undefined index: foto in /home/smknblsc/public_html/sys/sys_kirim_komentar.php on line 21
+[14-Apr-2020 18:58:36 UTC] PHP Notice:  Undefined index: foto in /home/smknblsc/public_html/sys/sys_kirim_komentar.php on line 22
+[14-Apr-2020 18:58:36 UTC] PHP Notice:  Undefined index: foto in /home/smknblsc/public_html/sys/sys_kirim_komentar.php on line 23
+[25-Apr-2020 08:15:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 9
+[25-Apr-2020 08:15:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/smknblsc/public_html/sys/sys_tambah_view.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 11
+[25-Apr-2020 08:15:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 9
+[25-Apr-2020 08:15:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/smknblsc/public_html/sys/sys_tambah_view.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 11
+[25-Apr-2020 08:15:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 9
+[25-Apr-2020 08:15:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/smknblsc/public_html/sys/sys_tambah_view.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 11
+[25-Apr-2020 08:15:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 9
+[25-Apr-2020 08:15:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/smknblsc/public_html/sys/sys_tambah_view.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 11
+[25-Apr-2020 08:15:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 9
+[25-Apr-2020 08:15:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/smknblsc/public_html/sys/sys_tambah_view.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 11
+[25-Apr-2020 08:15:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 9
+[25-Apr-2020 08:15:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/smknblsc/public_html/sys/sys_tambah_view.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 11
+[26-Apr-2020 09:03:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 9
+[26-Apr-2020 09:03:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/smknblsc/public_html/sys/sys_tambah_view.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 11
+[26-Apr-2020 09:03:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 9
+[26-Apr-2020 09:03:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/smknblsc/public_html/sys/sys_tambah_view.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 11
+[26-Apr-2020 09:03:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 9
+[26-Apr-2020 09:03:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/smknblsc/public_html/sys/sys_tambah_view.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 11
+[26-Apr-2020 09:03:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 9
+[26-Apr-2020 09:03:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/smknblsc/public_html/sys/sys_tambah_view.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 11
+[26-Apr-2020 09:03:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 9
+[26-Apr-2020 09:03:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/smknblsc/public_html/sys/sys_tambah_view.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 11
+[26-Apr-2020 09:03:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 9
+[26-Apr-2020 09:03:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/smknblsc/public_html/sys/sys_tambah_view.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 11
+[27-Apr-2020 18:31:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 9
+[27-Apr-2020 18:31:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/smknblsc/public_html/sys/sys_tambah_view.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 11
+[27-Apr-2020 18:31:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 9
+[27-Apr-2020 18:31:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/smknblsc/public_html/sys/sys_tambah_view.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 11
+[27-Apr-2020 18:31:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 9
+[27-Apr-2020 18:31:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/smknblsc/public_html/sys/sys_tambah_view.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 11
+[27-Apr-2020 18:31:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 9
+[27-Apr-2020 18:31:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/smknblsc/public_html/sys/sys_tambah_view.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 11
+[27-Apr-2020 18:31:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 9
+[27-Apr-2020 18:31:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/smknblsc/public_html/sys/sys_tambah_view.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 11
+[27-Apr-2020 18:31:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 9
+[27-Apr-2020 18:31:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/smknblsc/public_html/sys/sys_tambah_view.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/smknblsc/public_html/sys/sys_tambah_view.php on line 11

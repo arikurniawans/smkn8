@@ -1,0 +1,147 @@
+.agenda {
+	color: 	#000;
+	font-family: calibri;
+	font-size: 	29px;
+}
+.agenda:before {
+	content: '';
+	position: absolute;
+	top: 25.5%;
+	transform: translateX(2px);
+	height: 3px;
+	width: 20px;
+	border-bottom: 2.7px solid #26baee;
+}
+@media (max-width: 767px) {
+	.agenda:before {
+		top: 23%;
+		border-bottom: 2.7px solid #26baee;
+	}
+}
+.tabel-komentar {
+	margin-top: 17px;
+	padding-left: 0px !important;
+}
+.img-profile {
+	width: 90px;
+	height: 90px;
+}
+
+.add {
+	border-radius: 2px;
+	margin-top: 16px;
+	background-color: #011c38;
+	color: #fff;
+	border: none;
+	padding: 9px 12px;
+}
+.add:hover , .add:focus{
+	background-color: #26baee;
+	color: #fff;
+	text-decoration: none;
+	transition: all 0.3s ease-in-out;
+}
+.dsd {
+	margin-top: 3px;
+}
+.edit , .edit:active{
+	background-color: #26baee;
+	border: none;
+	padding: 7px 36px;
+	color: #fff;
+	border-radius: 2px;
+}
+.edit:hover ,.edit:focus  {
+	color:#fff; 
+	text-decoration: none;
+	background-color: #005792;
+	-webkit-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out; 
+}
+.delete , .delete:active , .delete:focus {
+	margin-top: 15px;
+	background-color: #db2d43;
+	border:none;
+	color:#fff; 
+	border-radius: 2px;
+	padding: 6px 28px;
+	outline: none;
+}
+.delete:hover {
+	background-color: #c1224f;
+	-webkit-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out; 
+}
+/* tambah-staff */
+.title , .title1 {
+	font-size: 30px;
+	margin-left: -7px;
+}
+.title:before {
+	content: '';
+	position: absolute;
+	top: 40%;
+	transform: translateX(7px);
+	height: 3px;
+	width: 20px;
+	border-bottom: 2.7px solid #26baee;
+}
+@media (max-width: 767px) {
+	.title:before {
+		top: 30%;
+	}
+}
+.title1:before {
+	content: '';
+	position: absolute;
+	top: 40%;
+	transform: translateX(3px);
+	height: 3px;
+	width: 20px;
+	border-bottom: 2.7px solid #26baee;
+}
+@media (max-width: 767px) {
+	.title1:before {
+		top: 30%;
+	}
+}
+.tanggal-dan-lokasi {
+	margin-top: 40px;
+	padding: 0px;
+}
+.jabatan {
+	margin-top:30px;
+}
+.form-control:active , .form-control:focus {
+	border: 1px solid #ddd;
+	box-shadow: none;
+}
+.tanggal-agenda {
+	font-family: calibri;
+	font-size: 	20px;
+	color: #000;
+}
+textarea {
+	resize: none;
+}
+.unggah {
+	margin-top: 10px;
+}
+.btn-unggah {
+	margin-top: 15px;
+	margin-bottom: 5px;
+	background-color: #011c38;
+	border: none;
+	color: #fff;
+	padding: 7px 20px;
+	border-radius: 2px;
+}
+.btn-unggah:hover , .btn-unggah:focus , .btn-unggah:active {
+	background-color: #26baee;
+	-webkit-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+/* tambah-staff */

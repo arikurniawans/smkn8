@@ -1,0 +1,71 @@
+	/* download file */
+	.pagination > li > a {
+		background-color: transparent;
+		color: #011c38;
+		border: 1px solid #dedede;
+	}
+	.pagination > li > a:hover , .pagination > li > a:focus {
+		background-color:#011c38;
+		border: 1px solid #011c38;
+		color: #fff;
+		transition: all 0.2s ease-in-out;
+	}
+	.zick {
+		color: #011c38;
+		font-family: inherit;
+		font-size: 30px;
+	}
+	.zick span {
+		color: #26baee;
+		margin-left: 5px;
+	}
+	.zick:before {
+		content: '';
+		position: absolute;
+		width: 24px;
+		height: 1px;
+		border-bottom: 2.5px solid #26baee;
+		left: 17.5px;
+		transform: translateY(32px);
+	}
+	/* download-file*/
+	/*tautan*/
+	.page {
+		color: #011c38;
+		font-family: inherit;
+		font-size: 30px;	
+	}
+	.page:before {
+		content: '';
+		position: absolute;
+		width: 24px;
+		height: 1px;
+		border-bottom: 2.5px solid #26baee;
+		left: 22px;
+		transform: translateY(32px);
+	}
+	.tautan {
+		margin-bottom: 25px;
+	}
+	/*tautan*/
+	/* tags */
+	.tag-box {
+		color: #011c38;
+		font-family: inherit;
+		font-size: 30px;
+	}
+	.tag-box:before {
+		content: '';
+		position: absolute;
+		top: 57px;
+		transform: translateX(7.5px);
+		height: 1px;
+		border-bottom: 2.5px solid #26baee;
+		width: 20px;
+	}
+	@media (max-width: 767px) {
+		.tag-box:before {
+			top: 35px;
+		}
+	} 
+/* tags */

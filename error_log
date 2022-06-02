@@ -1,0 +1,27 @@
+
+[10-Apr-2020 01:33:27 UTC] PHP Notice:  Undefined index: id_agenda in /home/smknblsc/public_html/sys/function.php on line 519
+[10-Apr-2020 01:33:36 UTC] PHP Notice:  Undefined index: id_jurusan in /home/smknblsc/public_html/sys/function.php on line 423
+[10-Apr-2020 01:33:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/function.php on line 428
+[12-Apr-2020 01:21:39 UTC] PHP Notice:  Undefined index: id_agenda in /home/smknblsc/public_html/sys/function.php on line 519
+[12-Apr-2020 04:36:16 UTC] PHP Notice:  Undefined index: id_jurusan in /home/smknblsc/public_html/sys/function.php on line 423
+[12-Apr-2020 04:36:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/function.php on line 428
+[13-Apr-2020 04:25:08 UTC] PHP Notice:  Undefined index: id_jurusan in /home/smknblsc/public_html/sys/function.php on line 423
+[13-Apr-2020 04:25:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/function.php on line 428
+[13-Apr-2020 13:16:48 UTC] PHP Notice:  Undefined index: id_eskul in /home/smknblsc/public_html/view/detail-ekstrakurikuler.php on line 43
+[13-Apr-2020 21:40:50 UTC] PHP Notice:  Undefined index: id_lowongan in /home/smknblsc/public_html/view/detail-bkk.php on line 43
+[13-Apr-2020 21:40:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/view/detail-bkk.php on line 49
+[14-Apr-2020 09:48:08 UTC] PHP Notice:  Undefined index: id_agenda in /home/smknblsc/public_html/sys/function.php on line 519
+[14-Apr-2020 09:48:25 UTC] PHP Notice:  Undefined index: id_jurusan in /home/smknblsc/public_html/sys/function.php on line 423
+[14-Apr-2020 09:48:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/function.php on line 428
+[17-Apr-2020 21:47:09 UTC] PHP Notice:  Undefined index: id_agenda in /home/smknblsc/public_html/sys/function.php on line 519
+[20-Apr-2020 02:13:24 UTC] PHP Notice:  Undefined index: id_eskul in /home/smknblsc/public_html/view/detail-ekstrakurikuler.php on line 43
+[22-Apr-2020 17:04:22 UTC] PHP Notice:  Undefined index: id_lowongan in /home/smknblsc/public_html/view/detail-bkk.php on line 43
+[22-Apr-2020 17:04:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/view/detail-bkk.php on line 49
+[24-Apr-2020 21:04:19 UTC] PHP Notice:  Undefined index: id_jurusan in /home/smknblsc/public_html/sys/function.php on line 423
+[24-Apr-2020 21:04:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/function.php on line 428
+[24-Apr-2020 21:15:50 UTC] PHP Notice:  Undefined index: id_jurusan in /home/smknblsc/public_html/sys/function.php on line 423
+[24-Apr-2020 21:15:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/function.php on line 428
+[24-Apr-2020 21:15:59 UTC] PHP Notice:  Undefined index: id_jurusan in /home/smknblsc/public_html/sys/function.php on line 423
+[24-Apr-2020 21:15:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/sys/function.php on line 428
+[25-Apr-2020 12:45:46 UTC] PHP Notice:  Undefined index: id_lowongan in /home/smknblsc/public_html/view/detail-bkk.php on line 43
+[25-Apr-2020 12:45:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/smknblsc/public_html/view/detail-bkk.php on line 49

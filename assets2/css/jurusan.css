@@ -1,0 +1,65 @@
+.full-bkk{
+	margin-top: 60px;
+}
+.bkk-img {
+	box-shadow:2px 2px 10px #dedede;
+	border-radius: 8px;
+}
+.backup-1 {
+	margin-top: 30px;
+}
+@media (max-width: 767px) {
+	.p-bkk {
+		margin-top: 30px;
+	}
+}
+.title {
+	font-weight: 600;
+	color: #000;
+	font-family: tahoma;
+	text-transform: uppercase;
+}
+.paragraf-bkk {
+	color: #000;
+	font-size: 15.5px;
+}
+ol {
+	font-size: 15.3px; 
+	color:#000;
+	margin-left: -21px;	
+}
+ol > li {
+	margin-bottom: 5px;
+	margin-top: 7px;
+}
+h3 {
+	font-weight: 600;
+	font-size: 21px;
+	font-family: tahoma;
+}
+.box {
+	background-color: #fff;
+	-webkit-box-shadow:2px 3px 10px #dedede;
+	box-shadow:  2px 2px 12px #dedede;
+	margin-bottom: 10px;
+	padding: 17px;
+	border-radius: 4px;
+	height: 200px;
+	overflow-y: auto;
+}
+.daftar-prestasi {
+	color: #000;
+	font-size: 15.5px;
+	margin-bottom: 14px;
+}
+.list-prestasi {
+	background-color: #fff;
+	color:#000;
+	-webkit-box-shadow:2px 3px 8px #dedede;
+	box-shadow:  2px 2px 8px #dedede;
+	padding:9px;
+	border-radius: 4px;
+}
+/* eskul */
+
+/* eskul */

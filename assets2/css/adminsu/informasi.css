@@ -1,0 +1,149 @@
+/* semua informasi */
+.add-news {
+	background-color: #3C8DBC;
+	color: #fff;
+	font-size: 15px;
+	padding:  10px;
+	margin-bottom: 30px;
+	border-radius: 3px;
+}
+.add-news:hover , .add-news:active {
+	background-color: #26baee;
+	color: #fff;	
+	text-decoration:none;
+	transition: all 0.3s ease-in-out;
+}
+.perintah {
+	background-color: #fff;
+	padding: 15px 12px;
+	margin-top: 15px;
+	border-radius: 4px;
+	box-shadow: 1px 1px 1.4px 1px #ddd; 
+	color: #000;
+}
+thead {
+	background-color: #1E282C;
+	color: #fff;
+}
+.btn-edit {
+	background-color: #3C8DBC;
+	color: #fff;
+	padding: 6.4px 20px 8px;
+	border-radius: 2px;
+}
+.btn-edit:hover ,  .btn-edit:focus {
+	background-color: #26baee;	
+	text-decoration:none;
+	color: #fff;
+	transition: all 0.3s ease-in-out;
+}
+.btn-delete {
+	background-color: #db2d43;
+	padding: 5px 12px;
+	border-radius: 2px;
+	color: #fff;
+	border: none;
+}
+.btn-delete:hover , .btn-delete:focus {
+	background-color: #c1224f;
+	outline: none;
+}
+@media (max-width: 600px) {
+	.btn-delete {
+		margin-top: 10px;
+	}
+}
+@media (max-width:900px) {
+	.btn-delete {
+		margin-top: 10px;
+	}
+}
+/* semua informasi */
+/* tambah-info  */
+.sidebar-image {
+	padding: 13px;
+}
+.side-add {
+    padding: 14px;
+    background-color: #fff;
+    border:1px solid #dedede;
+}
+@media (max-width: 986px) {
+	.sidebar-image {
+		padding: 13px;
+	}
+}
+.fa-camera , .fa-clipboard-list {
+    color: #000;
+    font-size: 20px;
+}
+.add-media span {
+    color: #000;
+    font-size: 18px;
+}
+.adds-media {
+    margin-top: 10px;
+}
+.adds-media span {
+    color: #000;
+    font-size: 18px;
+}
+.upload-file , .upload-file:focus , .upload-file:active {
+    padding:0px !important;
+    background-color: transparent !important;
+    border:none !important;
+    border-radius: none;
+    box-shadow: none;
+    outline: none !important;
+}
+.publish , .publish:active {
+    margin-top: 10px;
+    background-color: #1E282C;
+    color: #fff;
+    border-radius: 2px;
+    border:none;
+    padding: 7px 18px;
+    outline: none;
+}
+.publish:hover , .publish:focus {
+    background-color: #26baee;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    outline: none;
+}
+.loking[type=file]::-webkit-file-upload-button {
+  padding-left: 10px;
+  border: none;
+  padding: 7px 14px;
+  border-radius: 2px;
+  background: #1E282C;
+  color: #fff;  
+}
+.categories {
+	border: none; 
+	padding: 7px;
+	background-color: #fff;
+	box-shadow: 1px 1px 1.4px 1px #ddd !important;
+	border-radius: 2px;
+	color: #000;
+	margin-top: -2px;
+}
+.categories:focus , .categories:active {
+	box-shadow: 1px 1px 1.4px 1px #ddd !important;
+	outline: none;
+}
+/* tambah-info  */
+/* tambah kategori-info */
+.title-kategori {
+	font-size: 20px;
+}
+.btn-unggah {
+	border: none;
+	background-color: #26baee;
+	color: #f5f5f5;
+	margin-top: 8px;
+	padding: 8px 12px;
+	border-radius: 3px;
+}
+/* tambah kategori-info */

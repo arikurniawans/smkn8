@@ -1,0 +1,40 @@
+dropdown 
+<!-- 
+warna :#222D32;
+warna :#3C8DBC;
+warna:#1E282C;
+background: rgba(30,40,44,1);
+<li class="dropdown" style="float: right; margin-right: 30px;list-style: none;">
+<a href="#" class="dropdown-toggle"  data-toggle="dropdown" role="button" aria-expanded="false">
+<span class="name-admin-tool hidden-xs">Muhammad Farhan</span>
+<img src="images/hs.jpg" alt="" class="img-admin-tool">
+<p class="online"></p>
+<ul class="dropdown-menu" role="menu">
+<li><a href="">Kepemimpinan Sekolah</a></li>
+</ul>
+</li>
+-->
+
+<-- cadangan navbar admin 
+<!--  <div class="container-fluid side-bar navbar-fixed-top">
+<a href="#menu" class="toogle" id="menu"><i class="fas fa-bars icon"></i></a>
+<a href= "#" class="name-user">Admin</a>&nbsp;<img src="images/hs.jpg" class="user-profile">
+</div> -->
+-->
+<-- 					
+<td>No</td>
+<td>NISN</td>				
+<td>Nama</td>
+<td>Tanggal lahir</td>
+<td>Jurusan</td>
+<td>Th.Lulus</td>
+<td>Status</td>
+<td>Sosmed</td>
+<td>Gmail</td> 
+-->
+
+		<?php include 'template/footer.php';  ?>
+		<a id="abc"><i class="fas fa-chevron-up fa-2x icon-top"></i></a>
+	</body>	
+	</html>
+	<script src="assets/js/back-top.js"></script>

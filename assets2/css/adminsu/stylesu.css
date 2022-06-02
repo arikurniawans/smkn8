@@ -1,0 +1,111 @@
+/* home-dashobard */
+.license {
+  margin-top: 23px;
+  margin-left: 20px;
+  color: #000;
+}
+.page-backup {
+  margin-top: 20px;
+}
+.color1 {
+  color: #e61c5d !important;
+}
+.color2 {
+  color: #ffc60b !important;
+}
+.card {
+  background-color: #fff;
+  margin-bottom: 30px;
+  padding: 9px;
+  box-shadow: 1px 1px 1.4px 1px #ddd;  
+  border-radius: 4px;
+}
+.item1 {
+  color: #7B6BEF;
+  padding: 15px;
+  font-size: 45px;
+}
+.jumlah {
+  margin-left: 1.5px;
+  font-size: 46px;
+}
+.detail {
+  margin-left: 3px;
+  font-size: 19px;
+  position: relative;
+  top: -8px;
+}
+/* home-dashobard */
+/* tabel-info */
+.info {
+  margin-left: 3px;
+}
+.in-info {
+  margin-top: 8px;
+}
+.insert-info {
+  margin-bottom: 20px;
+  background-color: #3C8DBC ;
+  color: #fff;
+  padding: 9px 12px;
+  border-radius: 2px;
+}
+.insert-info:hover , .insert-info:focus {
+  background-color: #26baee;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  color: #fff;
+}
+table {
+  margin-top: 15px;
+}
+thead {
+  background-color:#1E282C;
+  color: #fff;
+}
+.table-bordered > thead > tr >td {
+  border-bottom-width: 1px;
+  padding: 9px;
+  font-size: 15px;
+}
+.table-bordered > tbody > tr >td {
+  padding: 12px;
+  color:#000;
+}
+/* tabel-info */
+/* log-admin-biasa */
+.log-card {
+  margin-top: 15px; 
+  overflow-y: auto;
+  height: 220px;
+}
+.riwayat {
+  margin-bottom: 10px;
+  color: #fff;
+}
+.riwayat-head {
+  background-color:#3C8DBC;
+  padding: 7px; 
+  padding-left: 7px;
+  border-top-right-radius: 3px;
+  border-top-left-radius: 3px;
+}
+.riwayat-body {
+  padding: 7px;
+  padding-left:7px;
+  background-color: #1E282C; 
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  padding-bottom: 24px;
+}
+.log-activity {
+  color:#fff;
+  margin-top: 5px;
+}
+.log-history {
+  color: #fff;
+  float: right;
+  display: block; 
+  font-size: 12px;
+}
+/* log-admin-biasa */

@@ -1,0 +1,111 @@
+/* komentar */
+.agenda {
+	color: 	#000;
+	font-family: calibri;
+	font-size: 	25px;
+}
+.agenda:before {
+	content: '';
+	position: absolute;
+	top: 24.5%;
+	transform: translateX(2px);
+	height: 3px;
+	width: 17px;
+	border-bottom: 2.5px solid #26baee;
+}
+.alert {
+	margin-top: 3px;
+	background-color: #fff;
+	box-shadow: 1px 1px 20px #dedede;
+}
+.tabel-komentar {
+	padding-left: 0px !important;
+}
+.img-profile {
+	width: 90px;
+	height: 90px;
+}
+.edit , .edit:active{
+	background-color: #26baee;
+	border: none;
+	padding: 6px 12px;
+	color: #fff;
+	border-radius: 2px;
+}
+.edit:hover ,.edit:focus  {
+	color:#fff; 
+	text-decoration: none;
+	background-color: #005792;
+	-webkit-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out; 
+}
+.delete , .delete:active , .delete:focus {
+	margin-top: 15px;
+	background-color: #db2d43;
+	border:none;
+	color:#fff; 
+	border-radius: 2px;
+	padding: 6px 28px;
+	outline: none;
+}
+.delete:hover {
+	background-color: #c1224f;
+	-webkit-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out; 
+}
+/*komentar*/
+/*tambah kategori berita*/
+.tambah-kategori {
+	margin-top: 70px;
+}
+.title-kategori {
+	font-size: 18px;
+}
+.title-kate {
+	margin-left: 10px;
+}
+.title-kate:before {
+	content: '';
+	position: absolute;
+	height: 1px;
+	width: 30px;
+	top:140px;
+	transform: translateX(7px);
+	border-bottom: 3.5px solid #26baee;
+	border-radius: 2px;
+}
+.btn-unggah {
+	background-color: #011c38;
+	border: none;
+	color: #fff;
+	margin-top: 8px;
+	padding: 7px 20px;
+	border-radius: 2px;
+}
+.btn-unggah:hover , .btn-unggah:focus , .btn-unggah:active {
+	background-color: #26baee;
+	-webkit-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+.form-control:focus {
+	border: 1px solid #ddd;
+}
+.hapus , .hapus:active , .hapus:focus {
+	background-color: #db2d43;
+	border:none;
+	color:#fff;
+	letter-spacing: 0.3px; 
+	border-radius: 2px;
+	padding: 4px 12px;
+	outline: none;
+}
+.hapus:hover {
+	background-color: #c1224f;
+	-webkit-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out; 
+}
+/*tambah kategori berita*/

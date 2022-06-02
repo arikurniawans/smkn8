@@ -1,0 +1,1 @@
+<?php echo "<p align='center'>By Simetri_Zcorp.</p>"; ?>
